@@ -105,4 +105,4 @@ st.markdown(f"""### Classes, on which the model was trained are: \n\n {classes_m
 st.markdown(f"### Author")
 st.markdown("This website and the model were made by [Makar Baderko](https://www.makarbaderko.com)")
 st.markdown(f"### Source code")
-st.markdown(f"Code for model training, website code and everything else can be found [here](https://www.github.com)")
+st.markdown(f"Code for model training, website code and everything else can be found [here](https://github.com/makarbaderko/flower-classififer)")
